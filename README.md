@@ -1,8 +1,11 @@
 - 👋 Hi, I’m Kevin Batongbakal
-- 👀 I’m interested in creating niche websites
-- 🌱 I’m currently learning SEO stuffs and creating contents
-- 💞️ I’m looking to collaborate on content creators
-- 📫 How to reach me https://mirmoboy.github.io/contact
+- 💻 Full Stack Developer
+- 🎬 Content Creator: https://www.tiktok.com/@betta.basics.101
+- 👀 Interested in blockchain technology
+- 🌱 Currently learning AI
+- 🔗 Blockchain & crypto enthusiast
+- 🐟 Betta fish hobbyist
+- 📫 Contact me: https://mirmoboy.github.io/contact
 
 <!---
 mirmoboy/mirmoboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
